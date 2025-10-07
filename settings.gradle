@@ -1,0 +1,2 @@
+rootProject.name = "TCU_MAC_SCANNER_SUNCRAFT"
+include(":app")
